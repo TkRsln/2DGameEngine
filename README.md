@@ -15,4 +15,4 @@ Custom 2D Game Engine
 ![Alt text](https://github.com/TkRsln/2DGameEngine/blob/main/game_ss/game_fig_2.gif?raw=true)
 
 ### Chapter 3
-![Alt text](https://github.com/TkRsln/2DGameEngine/blob/main/game_ss/game_ss4.png?raw=true)
+![Alt text](https://github.com/TkRsln/2DGameEngine/blob/main/game_ss/game_fig_3.gif?raw=true)
