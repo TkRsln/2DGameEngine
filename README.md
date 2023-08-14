@@ -12,7 +12,7 @@
 ![Alt text](https://github.com/TkRsln/2DGameEngine/blob/main/game_ss/game_fig_2.gif?raw=true)
 - This chapter takes place in space
 - Gravity of the objects are setted to zero, litle friction force has applied to stop moving objects
-- Players are trying to reach Worm Hole to reach Aliens' Planet
+- Players are trying to reach Worm Hole to go Aliens' Planet
 
 ### Chapter 3
 ![Alt text](https://github.com/TkRsln/2DGameEngine/blob/main/game_ss/game_fig_3.gif?raw=true)
