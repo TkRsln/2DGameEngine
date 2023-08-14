@@ -10,7 +10,7 @@ Custom 2D Game Engine
 
 ## Game Has 3 Chapter
 ### Chapter1
-Check above picture...
+![Alt text](https://github.com/TkRsln/2DGameEngine/blob/main/game_ss/SpaceGame_chapter%201(1).gif?raw=true)
 ### Chapter 2
 ![Alt text](https://github.com/TkRsln/2DGameEngine/blob/main/game_ss/game__ss3.png?raw=true)
 
