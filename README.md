@@ -15,4 +15,4 @@ Check above picture...
 ![Alt text](https://github.com/TkRsln/2DGameEngine/blob/main/game_ss/game__ss3.png?raw=true)
 
 ### Chapter 3
-![Alt text](https://github.com/TkRsln/2DGameEngine/blob/main/game_ss/game__ss4.png?raw=true)
+![Alt text](https://github.com/TkRsln/2DGameEngine/blob/main/game_ss/game_ss4.png?raw=true)
