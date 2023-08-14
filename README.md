@@ -23,6 +23,38 @@
 - After boss_2 dies, the gate opens
 
 ## Game Engine Benefits
+### Camera
+- Camera class extended from JPanel, "Camera" class has transform component where position and size data kept just like regular GameObject class.
+- Camera checks all "GameObject"s in scene, GameObject can be drawn if GameObject's edge is inside of the render box
+- Theoretically, cameras can be added to any number to games and each camera can follow the desired "GameObject", this feature lets the "Split Screen"
+
+### GameObject
+- Each "GameObject" has its own thread. Due to thread system, each Component has its own LifeCycle
+- Each GameObject has its own Transform component where position and size variables of the object kept
+- Developers can add their own custom components to GameObjects
+- This class also contains "Destroy()" finction and can take time parameter. when the function invoke it destroys the given object with given time
+
+### Components
+- Components are responsible from how objects will be rendered or how it behave or how it will interact with Physic Engine
+- Developers can use default components such as "Animator", "RigidBody", "Collider" and etc.
+- Components are informed GameObject status by interface functions
+- Developers can use "Update()", "Start()" functions inside of the components just like Unity
+#### Rigidbody Component
+![Alt text](https://github.com/TkRsln/2DGameEngine/blob/main/game_ss/rigidbody.gif?raw=true)
+- This component lets gameobject to interect with PhysicEngine,
+- Gravity, friction and bouncing factor can be applied with this component
+- Rigidbody Component calculates the collision between moving and static objects.
+- Developers can apply force to GameObject with this Component
+### Animator Component
+- This component reads pngies and changes apperance of the GameObjects
+#### Collider Component 
+- This component informs physic engine that this GameObject is physicaly interactable
+#### Particle Component
+- Creates multiple litle squares as a particle
+- With duration, particle size decrease and its color changes
+- So with this component, developers can simulate basic flame
+
+
 
 Custom 2D Game Engine
 - Every Game Object has own life cycle just like Unity
