@@ -1,5 +1,5 @@
 # 2DGameEngine
-#### [Please Wait gor gifts to load, it may take a time :c]
+#### [Please Wait gor gifts to load, it may take time :c]
 ## Game Chapters
 ### Chapter1
 ![Alt text](https://github.com/TkRsln/2DGameEngine/blob/main/game_ss/SpaceGame_chapter%201(1).gif?raw=true)
