@@ -52,7 +52,7 @@
 - This component informs physic engine that this GameObject is physicaly interactable
 #### Particle Component
 ![Alt text](https://github.com/TkRsln/2DGameEngine/blob/main/game_ss/spaceship.gif?raw=true)
-- Creates multiple litle squares as a particle
+- Creates multiple litle spheres as a particle
 - With duration, particle size decrease and its color changes
 - So with this component, developers can simulate basic flame
 
