@@ -56,13 +56,3 @@
 - With duration, particle size decrease and its color changes
 - So with this component, developers can simulate basic flame
 
-
-
-Custom 2D Game Engine
-- Every Game Object has own life cycle just like Unity
-- Every shared variable have own Thread lock to avoiding DeadLock
-- Independent Physics and Render Engines have been written
-- Supports different and custom "Companents" just like Unity
-- Coded Animation Component for animate Entities
-- Supports split screen system for Multiplayer
--  ![Alt text](https://github.com/TkRsln/2DGameEngine/blob/main/game_ss/game__ss2.png?raw=true)
