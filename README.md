@@ -32,7 +32,7 @@
 - Each "GameObject" has its own thread. Due to thread system, each Component has its own LifeCycle
 - Each GameObject has its own Transform component where position and size variables of the object kept
 - Developers can add their own custom components to GameObjects
-- This class also contains "Destroy()" finction and can take time parameter. when the function invoke it destroys the given object with given time
+- This class also contains "Destroy()" function and can take time parameter. when the function invoke it destroys the given object with given time
 
 ### Components
 - Components are responsible from how objects will be rendered or how it behave or how it will interact with Physic Engine
