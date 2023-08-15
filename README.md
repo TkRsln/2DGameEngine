@@ -46,6 +46,7 @@
 - Rigidbody Component calculates the collision between moving and static objects.
 - Developers can apply force to GameObject with this Component
 ### Animator Component
+![Alt text](https://github.com/TkRsln/2DGameEngine/blob/main/game_ss/alien.gif?raw=true) ![Alt text](https://github.com/TkRsln/2DGameEngine/blob/main/game_ss/boss_2.gif?raw=true)
 - This component reads pngies and changes apperance of the GameObjects
 #### Collider Component 
 - This component informs physic engine that this GameObject is physicaly interactable
