@@ -46,7 +46,7 @@
 - Gravity, friction and bouncing factor can be applied with this component
 - Rigidbody Component calculates the collision between moving and static objects.
 - Developers can apply force to GameObject with this Component
-### Animator Component
+#### Animator Component
 ![Alt text](https://github.com/TkRsln/2DGameEngine/blob/main/game_ss/alien.gif?raw=true) ![Alt text](https://github.com/TkRsln/2DGameEngine/blob/main/game_ss/boss_2.gif?raw=true) ![Alt text](https://github.com/TkRsln/2DGameEngine/blob/main/game_ss/boss_1.gif?raw=true)
 - This component reads pngies and changes apperance of the GameObjects
 #### Collider Component 
