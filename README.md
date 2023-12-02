@@ -2,7 +2,7 @@
 #### [ Please Wait for gifs to load, it may take time :c ]
 ## Game Chapters
 ### Chapter1
-<img src="https://i.imgur.com/o3xzZY7.gif"/>
+<img src="https://imgur.com/a/WjpTn0a"/>
 - Goal of the Players are trying to reach space ship.
 - Enemies are: White aliens and Boss_1 
 - Boss_1 can jump over players and shoots twice, %60 chance he can drop heart to heal player while jumping. Cameras shake when Boss_1 falls to the ground
