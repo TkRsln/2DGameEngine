@@ -16,7 +16,7 @@
 - Players are trying to reach Worm Hole to go Aliens' Planet
 
 ### Chapter 3
-![Alt text](https://github.com/TkRsln/2DGameEngine/blob/main/game_ss/game_fig_3.gif?raw=true)
+![Image](https://github.com/TkRsln/2DGameEngine/blob/main/game_ss/game_fig_3.gif?raw=true)
 - Players are trying to reach gate to stop Aliens
 - Enemies in this chapter are: Flying Dragon, Monster Plant and Boss_2
 - Flying Dragons can throw bouncing ball to players.
