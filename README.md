@@ -2,7 +2,7 @@
 #### [ Please Wait for gifs to load, it may take time :c ]
 ## Game Chapters
 ### Chapter1
-![Alt text](https://github.com/TkRsln/2DGameEngine/blob/main/game_ss/SpaceGame_chapter%201(1).gif?raw=true)
+![Alt text](https://drive.google.com/file/d/1SWT7lbmHr3YGJZfh2p60xuhjAQlxXOi0/view?usp=sharing)
 - Goal of the Players are trying to reach space ship.
 - Enemies are: White aliens and Boss_1 
 - Boss_1 can jump over players and shoots twice, %60 chance he can drop heart to heal player while jumping. Cameras shake when Boss_1 falls to the ground
